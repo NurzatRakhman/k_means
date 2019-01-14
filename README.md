@@ -1,6 +1,6 @@
-# K_means 
+# K_Means 
 
-K-means is a prototype-based clustering method, i.e. the clusters are represented by prototypes (eg center). Normally one looks at data from the n-dimensional continuous space.
+K-Means is a prototype-based clustering method, i.e. the clusters are represented by prototypes (eg center). Normally one looks at data from the n-dimensional continuous space.
 The goal is to divide given data points into K clusters. 
 
 Given
